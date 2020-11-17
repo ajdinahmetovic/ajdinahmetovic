@@ -3,10 +3,10 @@
 [![Website](https://img.shields.io/website?label=ahmetovicajdin.me&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://ahmetovicajdin.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmetovic_ajdin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ahmetovic_ajdin)
 
-- 💻 I am Full Stack Developer @ [Ministry of Programming](https://github.com/ministryofprogramming)
-- 🎓 I am student of Management @ [International Burch University](https://https://www.ibu.edu.ba)
+- 💻 I'm Full Stack Developer @ [Ministry of Programming](https://github.com/ministryofprogramming)
+- 🎓 I'm student of Management @ [International Burch University](https://https://www.ibu.edu.ba)
 - 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate with other open sources
+- 👯 I’m looking to collaborate with other open sourcers
 
 ### Connect with me:
 
@@ -18,7 +18,7 @@
 <br />
 <br />
 
-<img align="left" alt="ajdinahmetovic's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajdinahmetovic&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="left" alt="ajdinahmetovic's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajdinahmetovic&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true" />
 
 [website]: https://ahmetovicajdin.me
 [twitter]: https://twitter.com/ahmetovic_ajdin
