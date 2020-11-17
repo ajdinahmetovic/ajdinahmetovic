@@ -18,6 +18,8 @@
 [instagram]: https://www.instagram.com/ahmetovic_ajdin/
 [linkedin]: https://www.linkedin.com/in/ajdin-ahmetovic-5ab1b6152/
 
+<br />
+
 ### Connect with me:
 
 [<img align="left" alt="ahmetovicajdin.me" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
