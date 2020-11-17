@@ -18,8 +18,6 @@
 <br />
 <br />
 
-<summary>:tada: GitHub Stats</summary>
-
 <img align="left" alt="ajdinahmetovic's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajdinahmetovic&show_icons=true&hide_border=true" />
 
 [website]: https://ahmetovicajdin.me
