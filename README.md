@@ -18,7 +18,7 @@
 <br />
 <br />
 
-<img align="left" alt="ajdinahmetovic's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajdinahmetovic&show_icons=true&hide_border=true" />
+<img align="left" alt="ajdinahmetovic's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajdinahmetovic&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
 
 [website]: https://ahmetovicajdin.me
 [twitter]: https://twitter.com/ahmetovic_ajdin
