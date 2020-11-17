@@ -8,6 +8,8 @@
 - 🌱 I’m currently learning Data Science
 - 👯 I’m looking to collaborate with other open sourcers
 
+<img align="left" alt="ajdinahmetovic's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajdinahmetovic&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true" />
+
 <br />
 <br />
 
@@ -17,8 +19,6 @@
 [<img align="left" alt="ahmetovicajdin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="ahmetovicajdin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ahmetovicajdin | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<img align="left" alt="ajdinahmetovic's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajdinahmetovic&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true" />
 
 [website]: https://ahmetovicajdin.me
 [twitter]: https://twitter.com/ahmetovic_ajdin
