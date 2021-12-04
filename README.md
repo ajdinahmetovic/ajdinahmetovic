@@ -5,8 +5,6 @@
 
 - 💻 I'm Full Stack Developer @ [Ministry of Programming](https://github.com/ministryofprogramming)
 - 🎓 I'm student of Management @ [International Burch University](https://www.ibu.edu.ba)
-- 🌱 I’m currently learning Data Science
-- 👯 I’m looking to collaborate with other open sourcers
 
 <img align="left" alt="ajdinahmetovic's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ajdinahmetovic&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&disable_animations=true" />
 
