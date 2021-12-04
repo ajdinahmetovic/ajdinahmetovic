@@ -5,9 +5,6 @@
 - 💻 I'm Full Stack Developer @ [Ministry of Programming](https://github.com/ministryofprogramming)
 - 🎓 I'm student of Management @ [International Burch University](https://www.ibu.edu.ba)
 
-<br />
-<br />
-
 ### Connect with me:
 
 [<img align="left" alt="ahmetovicajdin | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
