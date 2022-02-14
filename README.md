@@ -2,7 +2,6 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/ahmetovic_ajdin?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=ahmetovic_ajdin)
 
-- 💻 I'm Full Stack Developer @ [Ministry of Programming](https://github.com/ministryofprogramming)
 - 🎓 I'm student of Management @ [International Burch University](https://www.ibu.edu.ba)
 
 ### Connect with me:
